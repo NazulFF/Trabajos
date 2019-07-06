@@ -1,0 +1,12 @@
+C:\Users\raycr\source\repos\Bloc de notas\Bloc de notas\bin\Debug\Bloc de notas.exe.config
+C:\Users\raycr\source\repos\Bloc de notas\Bloc de notas\bin\Debug\Bloc de notas.exe
+C:\Users\raycr\source\repos\Bloc de notas\Bloc de notas\bin\Debug\Bloc de notas.pdb
+C:\Users\raycr\source\repos\Bloc de notas\Bloc de notas\bin\Debug\Bloc de notas.xml
+C:\Users\raycr\source\repos\Bloc de notas\Bloc de notas\obj\Debug\Bloc de notas.vbprojAssemblyReference.cache
+C:\Users\raycr\source\repos\Bloc de notas\Bloc de notas\obj\Debug\Bloc_de_notas.Form1.resources
+C:\Users\raycr\source\repos\Bloc de notas\Bloc de notas\obj\Debug\Bloc_de_notas.Resources.resources
+C:\Users\raycr\source\repos\Bloc de notas\Bloc de notas\obj\Debug\Bloc de notas.vbproj.GenerateResource.cache
+C:\Users\raycr\source\repos\Bloc de notas\Bloc de notas\obj\Debug\Bloc de notas.vbproj.CoreCompileInputs.cache
+C:\Users\raycr\source\repos\Bloc de notas\Bloc de notas\obj\Debug\Bloc de notas.exe
+C:\Users\raycr\source\repos\Bloc de notas\Bloc de notas\obj\Debug\Bloc de notas.xml
+C:\Users\raycr\source\repos\Bloc de notas\Bloc de notas\obj\Debug\Bloc de notas.pdb
